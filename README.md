@@ -1,4 +1,4 @@
-# MASTER DUEL by Quantum team (https://quantumworks.co.uk/) to build. #
+# MASTER DUEL is created by Quantum team (https://quantumworks.co.uk/) to build. #
 
 ## It is not only a token, more have their own card system, system and blind box system. ##
 
