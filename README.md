@@ -22,5 +22,6 @@ A: It's a great buy! Because our heat is very high, open to buy not necessarily 
 
 ## Contact ##
 open source code：https://bscscan.com/address/0x2329690749b055fd4c827974a58b74d47cca5ae2#code
+
 website：http://www.masterduel.online/
 
