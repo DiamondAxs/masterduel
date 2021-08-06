@@ -1,6 +1,6 @@
 # MASTER DUEL is created by Quantum team (https://quantumworks.co.uk/) to build. #
 
-## It is not only a token, more have their own card system, system and blind box system. ##
+## It is not only a token, more have their own card system, system and mystery box system. ##
 
 
 ## 1. Why is MASTER DUEL so popular ##
@@ -13,7 +13,7 @@ A: The MASTER DUEL team worked for a whole month, from the official website to t
 
 ## 3. Is MASTER DUEL worth playing? ##
 
-A: MASTER DUEL is very popular abroad, and the English telegraph fleet is thousands strong and active. In particular, the blind box system is divided into five stages, in which all the cards will appear, but the odds are different, and the rare cards will have a low chance of popping (as explained in the white paper). At the end of the five blind cards, officials will buy back most of the duplicate cards, ensuring that the number of rare cards is around 20, and the cards will be destroyed. Only tokens can be used to buy card blind boxes! 
+A: MASTER DUEL is very popular abroad, and the English telegraph fleet is thousands strong and active. In particular, the mystery box system is divided into five stages, in which all the cards will appear, but the odds are different, and the rare cards will have a low chance of popping (as explained in the white paper). At the end of the five mystery cards, officials will buy back most of the duplicate cards, ensuring that the number of rare cards is around 20, and the cards will be destroyed. Only tokens can be used to buy card mystery boxes! 
 
 ##  4. Is MASTER DUEL presale worth buying? ##
 
