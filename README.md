@@ -5,7 +5,7 @@
 
 ## 1. Why is MASTER DUEL so popular ##
 
-A: It is a system of its own, changing the monotony of token trading and integrating blind card boxes and card trading to make it more diverse. It's a more novel trend play. 
+A: It is a system of its own, changing the monotony of token trading and integrating mystery card boxes and card trading to make it more diverse. It's a more novel trend play. 
 
 ## 2. What are the advantages of MASTER DUEL tokens? ##
 
