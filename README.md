@@ -1,27 +1,35 @@
-# MASTER DUEL is created by MD office to build. #
+# DiamondAxs token is a Community-Based Project with BSC DeFi Features #
+DiamondAxs token is an innovative Binance Smart Chain Token that maximizes profit with DeFI Yield Generation and Crypto Earning Systems. DiamondAxs token has been created with a progressive, automatic burn mechanism to form a bond between our product and our goals
 
-## It is not only a token, more have their own card system, system and mystery box system. ##
+while ensuring investors are not hampered by inflation or changing market conditions.
+
+## while ensuring investors are not hampered by inflation or changing market conditions. ##
 
 
-## 1. Why is MASTER DUEL so popular ##
+## 1. Tokenomics ##
 
-A: It is a system of its own, changing the monotony of token trading and integrating mystery card boxes and card trading to make it more diverse. It's a more novel trend play. 
+Supply: 1000000000
+ 50% of suppliers break into the black hole address
+Burning fee transaction ignites 12% (5% is allocated to each pool, 5% is given back, 2% is given back to marketing plan)
+Slippage setting: 12%
+ No maximum transaction volume limit
+ No cooling time: it can be purchased anytime, anywhere
 
-## 2. What are the advantages of MASTER DUEL tokens? ##
+## 2.Robot killer ##
 
-A: The MASTER DUEL team worked for a whole month, from the official website to the pre-sale platform and further optimization, and the TP Wallet profile was uploaded and reviewed prior to the official pre-sale. MASTER DUEL like many game coins, the fees are low and it won't be a factor in stopping you from buying and selling!
+Able to directly install a blacklist on the address of the robot/directly monitor and restrict robot transactions/innovatively create a better environment for creation.
 
-## 3. Is MASTER DUEL worth playing? ##
+## 3. Dividends ##
 
-A: MASTER DUEL is very popular abroad, and the English telegraph fleet is thousands strong and active. In particular, the mystery box system is divided into five stages, in which all the cards will appear, but the odds are different, and the rare cards will have a low chance of popping (as explained in the white paper). At the end of the five mystery cards, officials will buy back most of the duplicate cards, ensuring that the number of rare cards is around 20, and the cards will be destroyed. Only tokens can be used to buy card mystery boxes! 
+Each transaction will have 10% of the $Ht dividend reward, and then the dividend reward pool will be automatically distributed, and the dividend will be delivered every 30 minutes according to the $Ht (only 30 minutes of loan currency purchase holders))
 
-##  4. Is MASTER DUEL presale worth buying? ##
+##  4. Transaction return: ##
 
-A: It's a great buy! Because our heat is very high, open to buy not necessarily buy into, and we have anti-robot measures, we will burn the zero block to build the bottom! Even if the presale smash, the project side will be pulled to ensure a healthy K line trend!
+10% of all purchases and sales are returned to the circulation pool
 
 
 ## Contact ##
-open source code：https://bscscan.com/address/0x2329690749b055fd4c827974a58b74d47cca5ae2#code
+open source code：https://bscscan.com/address/0x8165883a81d82CB4f11B1a35e343f3F34E8537F0#code
 
-website：http://www.masterduel.online/
+Twitter：https://twitter.com/diamond_axs
 
